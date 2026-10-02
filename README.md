@@ -99,6 +99,10 @@ PayPause is currently being developed as a project prototype. Features and archi
 
 ## Author
 
+YouTube link: https://lnkd.in/gbmQW7sC
+LinkedIn: https://www.linkedin.com/in/sai-charan-network-engineer/
+
+
 **Sai Charan**
 
 PayPause — *A breath before it's gone*
