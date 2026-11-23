@@ -103,6 +103,65 @@ YouTube link: https://lnkd.in/gbmQW7sC
 LinkedIn: https://www.linkedin.com/in/sai-charan-network-engineer/
 
 
+
+Development Progress
+Sprint 1 – Initial Setup and UI Development
+Completed development includes:
+
+Android project setup using Android Studio.
+PayPause branding and logo creation.
+Login interface development.
+Orange-themed user interface.
+Account balance display.
+Balance hide/show functionality.
+Initial dashboard development.
+Git and GitHub project setup.
+Sprint 2 – Dashboard Development and Core Functionality
+Development during Sprint 2 focuses on improving the user interface and introducing the core banking features of PayPause.
+
+Key development areas include:
+
+Improving the account dashboard layout and design.
+Developing the main banking dashboard interface.
+Enhancing account balance visibility and user interaction.
+Adding transaction information and account activity sections.
+Improving navigation between application screens.
+Refining the PayPause branding and overall user experience.
+Establishing the initial structure for payment protection functionality.
+Reviewing and testing existing features developed during Sprint 1.
+The main objective of Sprint 2 is to build upon the initial application structure and create a more complete banking interface while preparing for the introduction of payment security features.
+
+Sprint 3 – Payment Protection and Security Development
+Sprint 3 focuses on developing the main concept behind PayPause: providing users with an additional opportunity to review potentially unusual payment activity before proceeding.
+
+Planned and ongoing development areas include:
+
+Designing the payment pause functionality.
+Developing the payment review and confirmation interface.
+Introducing a payment security workflow.
+Exploring suspicious transaction detection concepts.
+Improving transaction history and payment visibility.
+Developing security-related notifications and alerts.
+Refining the overall dashboard and application navigation.
+Testing the payment protection user experience.
+Preparing the application structure for future backend integration.
+The main objective of Sprint 3 is to move beyond the initial banking interface and begin implementing the security-focused functionality that makes PayPause unique.
+
+Sprint Summary
+
+Sprint	Main Focus	Development Status
+Sprint 1	Initial setup, branding and login interface	Completed
+Sprint 2	Dashboard development and core banking interface	In Development
+Sprint 3	Payment protection and security functionality	Planned / In Development
+Project Status
+Status: In Development
+
+PayPause is being developed incrementally through multiple sprints. Sprint 1 established the initial application structure and user interface, Sprint 2 focuses on expanding the banking dashboard and core functionality, and Sprint 3 focuses on introducing the payment protection concept.
+
+Further development will involve backend integration, database connectivity, authentication, payment risk detection and additional security testing.
+
+
+
 **Sai Charan**
 
 PayPause — *A breath before it's gone*
